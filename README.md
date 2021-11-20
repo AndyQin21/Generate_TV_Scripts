@@ -8,8 +8,12 @@
  2)Explore the Data
  
  3)Implement Pre-processing Functions
+ 
  4)Build the Neural Network
+ 
  5)Neural Network Training
+ 
  6)Checkpoint
+ 
  7)Generate TV Script
 
