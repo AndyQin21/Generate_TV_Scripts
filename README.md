@@ -4,7 +4,9 @@
  
  You will be applying the following steps:
  1)Get the Data
+ 
  2)Explore the Data
+ 
  3)Implement Pre-processing Functions
  4)Build the Neural Network
  5)Neural Network Training
